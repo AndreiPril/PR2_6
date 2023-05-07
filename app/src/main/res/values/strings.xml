@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Прилепский А.Н. РИБО–04–21</string>
+    <string name="enter_deposit">Введите сумму вклада</string>
+    <string name="enter_ann_percentage">Введите годовой процент</string>
+    <string name="enter_deposit_term">Введите срок депозита</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="result">Результат:</string>
+</resources>
